@@ -1,0 +1,1 @@
+require 'has_many_through_test_methods'
